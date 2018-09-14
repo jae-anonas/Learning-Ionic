@@ -1,0 +1,8 @@
+{
+  "name": "LearningIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d1a20102"
+}
